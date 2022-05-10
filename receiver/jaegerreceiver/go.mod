@@ -8,7 +8,7 @@ require (
 	github.com/jaegertracing/jaeger v1.30.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/coreinternal v0.42.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/jaeger v0.42.0
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	github.com/uber/jaeger-lib v2.4.1+incompatible
 	go.opentelemetry.io/collector v0.42.0
 	go.opentelemetry.io/collector/model v0.42.0
