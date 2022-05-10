@@ -114,7 +114,7 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/receiver/zipkinreceiver v0.42.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/receiver/zookeeperreceiver v0.42.0
 	github.com/prometheus/prometheus v1.8.2-0.20220111145625-076109fa1910
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	go.opentelemetry.io/collector v0.42.0
 	golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e
 )
