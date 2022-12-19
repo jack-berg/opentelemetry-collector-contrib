@@ -11,7 +11,7 @@ require (
 	google.golang.org/grpc v1.43.0
 )
 
-require go.uber.org/multierr v1.7.0
+require go.uber.org/multierr v1.9.0
 
 require (
 	cloud.google.com/go/compute v1.0.0 // indirect
@@ -53,7 +53,7 @@ require (
 	google.golang.org/genproto v0.0.0-20211221195035-429b39de9b1c // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
 replace github.com/open-telemetry/opentelemetry-collector-contrib/exporter/jaegerexporter => ../../exporter/jaegerexporter
